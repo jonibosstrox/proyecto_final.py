@@ -1,0 +1,8 @@
+FUNCIONALIDAD
+Espero que mi aplicacion web sea de utilidad, y q sea practica
+INTERFAZ DE USUARIO
+quiero hacer una interfaz de usuario simple pero elegante
+RENDIMIENTO 
+con respecto a el rendimiento, planeo hacer una paguina no tan cargada, pero con suficiente informacion
+SEGURIDAD
+mi paguina contara con la suficiente seguridad y privacidad para todas los visitantes 
